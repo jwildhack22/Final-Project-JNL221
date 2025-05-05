@@ -41,7 +41,7 @@ p {
 .footer {
     font-size: 14px;
     color: gray;
-    border-top: 1px solid red;
+    border-top: 20px solid red;
     padding-top: 20px;
     margin-top: 40px;
     text-align: center;
@@ -52,7 +52,7 @@ body {
     background-color: black;
     color: white;
     font-family: Arial, sans-serif;
-    padding: 20px;
+    padding: 50px;
     max-width: 900px;
     margin: auto;
 }
