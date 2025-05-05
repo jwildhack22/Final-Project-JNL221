@@ -46,3 +46,13 @@ p {
     margin-top: 40px;
     text-align: center;
 }
+
+
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 900px;
+    margin: auto;
+}
